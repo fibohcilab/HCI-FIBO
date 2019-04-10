@@ -14,18 +14,10 @@ http://www.fibo.kmutt.ac.th/fiboweb2015/hci-lab/
  - นักเรียน/นักศึกษาที่ฝึกงาน
 
 # สมาชิก
-- 
-- 
-- 
-- 
+- Coming Soon ... 
 
 # ผลงาน
-- 
-- 
-- 
-- 
-- 
-- 
+- Coming Soon ... 
 
 # โครงการต่าง ๆ
  - 2BKMUTT
