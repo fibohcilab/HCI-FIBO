@@ -7,14 +7,13 @@ Human-Computer Interface Lab (HCI Lab) contributes on development of advanced in
 http://www.fibo.kmutt.ac.th/fiboweb2015/hci-lab/
 
 # สารบัญ
-- [สมาชิก](#member)
-- [ผลงาน](#research)
-- [โครงการต่าง ๆ](#project)
- - [2BKMUTT](#project.2bkmutt)
- - [นักเรียน/นักศึกษาที่ฝึกงาน](#project.internship)
+- [สมาชิก](#สมาชิก)
+- [ผลงาน](#ผลงาน)
+- [โครงการต่าง ๆ](#โครงการต่าง ๆ)
+ - [2BKMUTT]
+ - [นักเรียน/นักศึกษาที่ฝึกงาน]
 
 # สมาชิก
-# member
 - Coming Soon ... 
 
 # ผลงาน
