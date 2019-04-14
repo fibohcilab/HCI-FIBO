@@ -13,12 +13,13 @@ http://www.fibo.kmutt.ac.th/fiboweb2015/hci-lab/
  - [2BKMUTT](#project.2bkmutt)
  - [นักเรียน/นักศึกษาที่ฝึกงาน](#project.internship)
 
-# [สมาชิก](#member)
+# สมาชิก
+# member
 - Coming Soon ... 
 
-# [ผลงาน](#research)
+# ผลงาน
 - Coming Soon ... 
 
-# [โครงการต่าง ๆ](#project)
- - [2BKMUTT](#priject.2bkmutt)
- - [นักเรียน/นักศึกษาที่ฝึกงาน](#project.internship)
+# โครงการต่าง ๆ
+ - 2BKMUTT
+ - นักเรียน/นักศึกษาที่ฝึกงาน
