@@ -1,4 +1,4 @@
-# Robot gripper for detecting object using flex sensor
+# Robot Gripper for Detecting Object Using Flex Sensor
 
 ## สมาชิกในกลุ่ม
 - ศุภราช อินทรโสภา
