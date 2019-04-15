@@ -1,0 +1,10 @@
+Hello
+
+	I think you're suspect that what what the hell this folder is. I'll told you that There're .img file of raspbian that contain OpenCV 4.0.0 collected somewhere.It can save you a lot of times from a days to install OpenCV by yourself to only an hour++.I think that it's not fair that you can reach the goal easier than me by this .img. But I also think that It's should be your benefit to don't have to waste time with the unnecessary reason.
+	However, I recommend you to try to install it by yourself first.You'll get more experience between the pathway.But you can use this .img if it's security or you can't complete by your best.Good luck to your project.
+
+
+
+     "Senior should begrudge to Junior" 
+
+                   Assoc. Prof. Dr.Siam Charoenseang

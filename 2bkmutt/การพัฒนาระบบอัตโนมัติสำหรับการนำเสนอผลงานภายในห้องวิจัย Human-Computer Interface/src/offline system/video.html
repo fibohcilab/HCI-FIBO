@@ -1,0 +1,35 @@
+<html>
+
+   <head>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.1/mqttws31.js"></script>
+    <script type="text/javascript">
+
+</script>
+    
+  </head>
+    <body>
+      <style>
+      video {
+        position: fixed; right: 0; bottom: 0;
+        min-width: 100%; min-height: 100%;
+        width: auto; height: auto; z-index: -100;
+        background: url(polina.jpg) no-repeat;
+        background-size: cover;
+      }
+       </style>
+   
+   <video id="autoplay" muted playsinline controls autoplay>
+      <source src="FIBO HCI Exoskeleton Preview.mp4" type="video/mp4">  
+   </video>
+   
+<script>
+    document.getElementById('autoplay').addEventListener('ended',myHandler,false);
+    function myHandler(e) {
+        window.location.replace('JavaNAJA.html');
+    }
+</script>    
+
+   </body>  
+</html>
