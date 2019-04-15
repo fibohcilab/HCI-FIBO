@@ -23,7 +23,7 @@ Coming Soon ...
 ## 2BKMUTT
 ### 2019
 - [Robot Gripper for Detecting Object Using Flex Sensor](2bkmutt/Robot%20Gripper%20for%20Detecting%20Object%20Using%20Flex%20Sensor)
-- [การพัฒนาระบบอัตโนมัติสำหรับการนำเสนอผลงานภายในห้องวิจัย Human-Computer Interface](#)
+- [การพัฒนาระบบอัตโนมัติสำหรับการนำเสนอผลงานภายในห้องวิจัย Human-Computer Interface](2bkmutt/การพัฒนาโลกเสมือนผสมความจริงควบคุมอุปกรณ์ผ่าน%20IoT)
 - [การพัฒนาโลกเสมือนผสมความจริงควบคุมอุปกรณ์ผ่าน IoT](#)
 ### 2018
 ### 2017
