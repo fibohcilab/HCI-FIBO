@@ -2,9 +2,9 @@
 
 ## สมาชิก
 - ศุภราช อินทรโสภา
-    - ระดับการศึกษา 
+    - การศึกษา 
         - ม.5/7 โรงเรียนระยองวิทยาคม จังหวัดระยอง
-    - ช่องทางการติดต่อ
+    - ติดต่อ
         - pipo_suparach@hotmail.com
         - fb : [Pipo Suparach](https://www.facebook.com/pipo.suparach)
 - Rith Virakyuth
