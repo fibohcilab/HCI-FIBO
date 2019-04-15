@@ -5,18 +5,18 @@
         ม.5  โรงเรียนสวนกุหลาบวิทยาลัย  จังหวัดกรุงเทพมหานคร
     - ช่องทางการติดต่อ
         - oil1645@gmail.com
-        - fb : Ponlawat Ardpaksa
-        - ig : ponlawat_1645
+        - fb : [Ponlawat Ardpaksa](https://www.facebook.com/ponlawat.ardpaksa)
+        - ig : [ponlawat_1645](https://www.instagram.com/ponlawat_1645)
 - ขิตตฬา สุวรรณมาโจ
     - ระดับการศึกษา
         ม.5 โรงเรียนศึกษานารีวิทยา จังหวัดกรุงเทพมหานคร
     - ช่องทางการติดต่อ
         - farmhouse9725@gmail.com
-        - fb : Phraram Farmhouse
-        - instagram : f_phraram
+        - fb : [Phraram Farmhouse](https://www.facebook.com/profile.php?id=100007453274790)
+        - ig : [f_phraram](https://www.instagram.com/f_phraram)
 - วิภพ ปัญญาทิพย์สกุล
     - ระดับการศึกษา
         ม.5 โรงเรียนมัธยมสาธิตมหาวิทยาลัยนเรศวร จังหวัด พิษณุโลก
     - ช่องทางการติดต่อ
         - wipophor555@gmail.com
-        - fb : Wipop Panyatipsakul
+        - fb : [Wipop Panyatipsakul](https://www.facebook.com/profile.php?id=100007347048548)
