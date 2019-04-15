@@ -21,4 +21,10 @@ Coming Soon ...
 
 # โครงการต่าง ๆ
 ## 2BKMUTT
+### 2019
+- [Robot Gripper for Detecting Object Using Flex Sensor](Robot Gripper for Detecting Object Using Flex Sensor)
+- [การพัฒนาระบบอัตโนมัติสำหรับการนำเสนอผลงานภายในห้องวิจัย Human-Computer Interface](การพัฒนาระบบอัตโนมัติสำหรับการนำเสนอผลงานภายในห้องวิจัย Human-Computer Interface)
+- [การพัฒนาโลกเสมือนผสมความจริงควบคุมอุปกรณ์ผ่าน IoT](การพัฒนาโลกเสมือนผสมความจริงควบคุมอุปกรณ์ผ่าน IoT)
+### 2018
+### 2017
 ## นักเรียน/นักศึกษาที่ฝึกงาน
